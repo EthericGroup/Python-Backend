@@ -1,0 +1,6 @@
+[firebase]
+CERT_PATH = '<path to key-firebase.json>'
+
+[github]
+GIT_ID = '<GIT ID>'
+GIT_SECRET = '<GIT SECRET'
